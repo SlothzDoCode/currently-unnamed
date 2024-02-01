@@ -1,10 +1,20 @@
 co-op 
+-multiplayer
 
 random generation
+-starter dungeons are randomly generated
 
-base building 
+city building 
+-use loot/cards from dungeons to develop city
+
+dungeon building
+-higher levels can use a high level building in the city to design their next dungeon
 
 2d
+-self explanetory
+
+dungeon runner
+-use loot/cards from other dungeons to make it further to get better loot
 
 card game
-
+-self explanetory
