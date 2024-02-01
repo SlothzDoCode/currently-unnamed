@@ -1,1 +1,18 @@
+tank:
 
+- block
+- block
+- block
+- move
+- move
+- move
+
+
+mage:
+
+- fireball
+- fireball
+- fireball
+- move
+- move
+- move
