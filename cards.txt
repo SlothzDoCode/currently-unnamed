@@ -1,3 +1,5 @@
+**cards that effect dungeon**
+
 name: more sand
 description: adds more time to dungeon
 stats/abilities: +5 mins
@@ -6,6 +8,10 @@ name: risk vs reward
 description: makes dungeon harder, but gives better loot
 stats/abilities: +10 dificulty, +10% loot quantity
 
+name: favor of the gods
+description: get a favor from one of the three gods
+stats/abilities: adds a random favor from a god (only effects the next/current dungeon)
+
 name: Blacksmith
 description: creates a new building in the city
 stats/abilities: use materials gathered in the dungeon to make better gear (better materials means better gear)
@@ -13,10 +19,6 @@ stats/abilities: use materials gathered in the dungeon to make better gear (bett
 name: research centre
 description: creates a new building in the city
 stats/abilities: use card fragments (found in the dungeon) to make new cards
-
-name: favor of the gods
-description: get a favor from one of the three gods
-stats/abilities: adds a random favor from a god (only effects the next/current dungeon)
 
 name: temple to the gods
 description: a temple that is seperated into three parts, one for each god
