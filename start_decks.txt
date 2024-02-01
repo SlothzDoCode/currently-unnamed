@@ -16,3 +16,21 @@ mage:
 - move
 - move
 - move
+
+fighter:
+
+- sword
+- sword
+- sword
+- move
+- move
+- move
+
+healer:
+
+- heal
+- heal
+- heal
+- move
+- move
+- move
