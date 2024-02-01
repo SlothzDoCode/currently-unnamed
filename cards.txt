@@ -1,1 +1,19 @@
+name: more sand
+description: adds more time to dungeon
+stats/abilities: +5 mins
 
+name: more risks
+description: makes dungeon harder, but gives better loot
+stats/abilities: +10 dificulty, +10% loot quantity
+
+name: Blacksmith
+description: creates a new building in the city
+stats/abilities: use materials gathered in the dungeon to make better gear (better materials means better gear)
+
+name: research centre
+description: creates a new building in the city
+stats/abilities: use card fragments (found in the dungeon) to make new cards
+
+name:
+description:
+stats/abilities:
