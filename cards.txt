@@ -1,1 +1,16 @@
 
+
+block
+- prevent 1 damage
+
+fireball 
+- deal 1 damage from max 4 tiles away
+
+sword
+- deal 1 damage from max 1 tile away
+
+heal 
+- heal 1 health to yourself or 1 to an adjecant player
+
+move
+- move 1 tile
