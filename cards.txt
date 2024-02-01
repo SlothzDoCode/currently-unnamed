@@ -16,4 +16,8 @@ stats/abilities: use card fragments (found in the dungeon) to make new cards
 
 name: favor of the gods
 description: get a favor from one of the three gods
-stats/abilities:
+stats/abilities: adds a random favor from a god (only effects the next/current dungeon)
+
+name: temple to the gods
+description: a temple that is seperated into three parts, one for each god
+stats/abilities: 
