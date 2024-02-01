@@ -1,5 +1,5 @@
 block
-- prevent 1 damage or move infront of player to take 1 damage
+- prevent 1 damage or move in front of player to take 1 damage
 
 fireball 
 - deal 1 damage from max 4 tiles away
