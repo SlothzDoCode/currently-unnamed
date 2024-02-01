@@ -2,7 +2,7 @@ name: more sand
 description: adds more time to dungeon
 stats/abilities: +5 mins
 
-name: more risks
+name: risk vs reward
 description: makes dungeon harder, but gives better loot
 stats/abilities: +10 dificulty, +10% loot quantity
 
@@ -14,6 +14,6 @@ name: research centre
 description: creates a new building in the city
 stats/abilities: use card fragments (found in the dungeon) to make new cards
 
-name:
-description:
+name: favor of the gods
+description: get a favor from one of the three gods
 stats/abilities:
