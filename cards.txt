@@ -20,4 +20,4 @@ stats/abilities: adds a random favor from a god (only effects the next/current d
 
 name: temple to the gods
 description: a temple that is seperated into three parts, one for each god
-stats/abilities: 
+stats/abilities: a place to gain (or lose) favours from gods
