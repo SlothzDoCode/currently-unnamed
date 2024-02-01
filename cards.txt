@@ -12,7 +12,7 @@ name: favor of the gods
 description: get a favor from one of the three gods
 stats/abilities: adds a random favor from a god (only effects the next/current dungeon)
 
--------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
 
 **cards that effect city**
 
