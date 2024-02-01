@@ -21,3 +21,23 @@ stats/abilities: adds a random favor from a god (only effects the next/current d
 name: temple to the gods
 description: a temple that is seperated into three parts, one for each god
 stats/abilities: a place to gain (or lose) favours from gods
+
+name: tavern of (insert player city name here)
+description: creates a new building in the city
+stats/abilities: a place to recruit new members to your city to help automate other buildings (make sure you have houses and food available for them)
+
+name: house
+description: a place for you and your citizens to sleep
+stats/abilities: + 1 max population
+
+name: farm
+description: food is needed for a city to grow
+stats/abilities: + 1 food /per min 
+
+name: storehouse
+description: a place to store items and cards produced in the city, as well as items gathered in the dungeon
+stats/abilities: + 50 storeage
+
+name: courier's station
+description: most reliable messaging service out there
+stats/abilities: allows for items to be moved between buildings (e.g. farm to storehouse)
