@@ -18,3 +18,7 @@ dungeon runner
 
 card game
 -self explanetory
+
+scaleing leveling system
+-the higher the level the more exp needed to get to the next level
+
