@@ -26,4 +26,4 @@ gods
 -grant higher stats based on the god that the favor is from
 -complete sacrifices to the gods to gain favours (timed(varies based on complexity))
 -faliure to complete a sacrifice may result in loss of a favour (can go into negatives)
--god conflicts (not keeping a balance between gods will cause conflict between them, leading to you gaining favours for failing rival gods sacrifices, and vice versa)
+-god conflicts (not keeping a balance between gods will cause conflict between them, this leads to negative effects (could be used to make a specific build. Who knows?))
