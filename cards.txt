@@ -10,7 +10,11 @@ stats/abilities: +10 dificulty, +10% loot quantity
 
 name: favor of the gods
 description: get a favor from one of the three gods
-stats/abilities: adds a random favor from a god (only effects the next/current dungeon)
+stats/abilities: adds a favor from a random god (only effects the current dungeon) (could reduce the level of a curse (temporarily))
+
+name: swiftness
+description: temporarily increace movement speed
+stats/abilities: increace movement speed by 5% for 30 seconds
 
 ----------------------------------------------------------------------------------------------
 
