@@ -16,3 +16,9 @@ Frankenstien:
 - +15% enemy spawn (in dungeon) per level
 - -10% speed per level
 
+Rose:
+- +15% food production per level
+- -10% people going to tavern per level and -10% stay time per level
+- +20% damage from fire per level 
+- +5% damage reflection per level
+
