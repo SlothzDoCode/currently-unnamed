@@ -1,1 +1,11 @@
+Vampirism:
+- city damages you during daytime (lose % health overtime whilst outside)
+- +10% chance to be attacked when entering a city (not your own) per level
+- +5% lifesteal per level
+- +15% damage from wooden weapons per level
 
+Hoarder:
+-
+- 
+- +5% loot quality per level
+- -5% inventory space per level (rounded up)
