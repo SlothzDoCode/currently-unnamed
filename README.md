@@ -1,5 +1,7 @@
 # currently-unnamed
 
-reason for name: 
-- have no ideas of what to do
-- am not good at naming stuff
+What you see here:
+-Files containg .txt or .md are where features are listed 
+-Updates will first be added here, then added to the wiki
+In projects:
+-
