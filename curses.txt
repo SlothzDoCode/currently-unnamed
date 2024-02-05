@@ -22,3 +22,15 @@ Rose:
 - +20% damage from fire per level 
 - +5% damage reflection per level
 
+undead:
+- undead creatures will not attack you in dungeons
+- -20% movement speed per level
+- -10% food production per level
+- -15% research speed per level
+
+famine:
+- -20% food production per level
+- -15% citizen movement speed per level
+- +10% (food based) loot quantity pwe level
+- +5% health regen per level
+
